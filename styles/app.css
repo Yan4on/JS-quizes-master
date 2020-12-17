@@ -21,8 +21,14 @@ body, html
 .main
 {
 	display: table-cell;
-	vertical-align: middle;
+	/* vertical-align: middle; */
 	text-align: center;
+}
+
+.quiz__title {
+	font-size: 38px;
+	padding: 0 18px;
+	
 }
 
 .quiz-frame
